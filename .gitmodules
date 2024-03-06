@@ -1,0 +1,9 @@
+[submodule "modules/dapptools"]
+	path = modules/dapptools
+	url = https://github.com/dapphub/dapptools.git
+[submodule "modules/bsc"]
+	path = modules/bsc
+	url = https://github.com/bnb-chain/bsc.git
+[submodule "pomo-veil"]
+	path = pomo-veil
+	url = git@gitlab.com:fredollinger/pomo-veil.git
